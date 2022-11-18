@@ -3,6 +3,8 @@ Let me introduce myself, I'm William. A C++ programmer from northern Sweden curr
 
 ## ＰＲＯＪＥＣＴＳ 🌿
 I have not found a main project as of now but some honorable mentions are
+- [Pi Estimator](https://github.com/CoolJWB/Pi-Estimator) : A project inspired by the [C++ donut](https://www.a1k0n.net/2011/07/20/donut-math.html) but in Python and for Pi instead.
+- [Python Calculator](https://github.com/CoolJWB/Python-Calculator) : A calculator that can take a text input and calculate the result from it.
 - [TeardownPerformanceMod](https://github.com/CoolJWB/TeardownPerformanceMod) : A Teardown mod that reduces physics calculations by removing small voxels.
 - [Minecraft Terrain Generation](https://www.spigotmc.org/threads/how-to-create-a-custom-world-generator.545616/#post-4359392) : A resource for world generation in Minecraft plugins.
 - [Minecraft NPCs](https://www.spigotmc.org/threads/how-to-create-and-modify-npcs.400753/) : A resource for creation and management of NPCs in Minecraft plugins.
