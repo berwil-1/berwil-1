@@ -11,7 +11,7 @@ I have not found a main project as of now but some honorable mentions are
 
 ## ＦＵＴＵＲＥ 👀
 I have interest in most areas of coding but I plan to stick around game development for a while.
-I as of now work part-time at [Teardown](https://teardowngame.com/) with Quality Assurance (QA) but also write [mods](https://steamcommunity.com/id/CoolJWB/myworkshopfiles/) for it on my spare time.
+I as of now work part-time at [Teardown](https://teardowngame.com/) with Quality Assurance (QA) but also write [mods](https://steamcommunity.com/id/CoolJWB/myworkshopfiles/) for it on my spare time. Studies will of course take priority over all my other side ideas but that does not stop me from working on them from time to time, and I will always be reachable via Discord.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolJWB&theme=&title_color=86d72f&icon_color=699721&text_color=ffffff&bg_color=0d1117&border_color=0d1117&show_icons=true&count_private=true)
 
