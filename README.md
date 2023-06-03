@@ -18,4 +18,7 @@ Let me introduce myself, I'm William. A C/C++ programmer from northern Sweden cu
   <a href="https://twitter.com/CoolJWB">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://https://medium.com/@berghwilliam">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
