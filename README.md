@@ -7,10 +7,10 @@ My core interests lie in the realm of code optimization. In a world where people
 
 ## ＰＲＯＪＥＣＴＳ
 - [Teardown Performance Mod](https://github.com/CoolJWB/TeardownPerformanceMod) : A mod to Teardown that is widely popular, over 100k downloads.
-- [Vulnerability Patcher](https://github.com/CoolJWB/VulnerabilityPatcher) : Plugin to Minecraft servers that prevented nasty vulnerabilities, no longer maintained [see fork.](https://github.com/Focusvity/VulnerabilityPatcher)
-- [Astro Evolution](https://github.com/CoolJWB/Astro) : High school final project, inspired by [the project](https://youtu.be/lctXaT9pxA0?si=-4oM9p2YiZ1ihfLP) by Sebastian Lague.
-- [Pi Estimator](https://github.com/CoolJWB/Pi-Estimator) : Project inspired by the [C++ donut](https://www.a1k0n.net/2011/07/20/donut-math.html) but in Python and for Pi instead.
-- [Python Calculator](https://github.com/CoolJWB/Python-Calculator) : Calculator that can take a text input and calculate the result from it.
+- [Vulnerability Patcher](https://github.com/CoolJWB/VulnerabilityPatcher) : Plugin to Minecraft servers that prevents vulnerabilities, no longer maintained [see fork.](https://github.com/Focusvity/VulnerabilityPatcher)
+- [Astro Evolution](https://github.com/CoolJWB/Astro) : High school final project, inspired by [Sebastian Lague](https://youtu.be/lctXaT9pxA0?si=-4oM9p2YiZ1ihfLP).
+- [Pi Estimator](https://github.com/CoolJWB/Pi-Estimator) : Math experiment in Python that tries to estimate Pi accurately very fast using AGM.
+- [Python Calculator](https://github.com/CoolJWB/Python-Calculator) : Simple Python calculator in under 100 lines of code that takes a long text input and evaluates it.
 - <img src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" width=13><br>
 <br>
 
