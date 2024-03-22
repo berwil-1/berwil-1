@@ -1,18 +1,17 @@
-# ＨＥＬＬＯ　ＷＯＲＬＤ
-I'm William, a passionate C/C++ programmer from northern Sweden. I am studying for a Bachelor's course in Computer Game Programming at Luleå University of Technology. Self-taught skills and formal education characterize my entire path as a programmer.
+### INTRODUCTION
+I'm William, a C/C++ programmer from northern Sweden. I currently study for a Bachelor's title in Computer Game Programming at Luleå University of Technology.
+The core interests for me can be found in the realm of low-level optimizations and to always learn more...
 
-Ich bin fluent in Swedish and English, with a basic understanding of German. As someone who lives where the winters are cold and summers hot, I often find the snowy season superior.
-
-My core interests lie in the realm of code optimization. In a world where people overlook efficiency frequently, utilizing the hardware's whole potential is critical. I am driven by the challenge of refining algorithms and writing code to enhance game and application performance.
-
-## ＰＲＯＪＥＣＴＳ
-- [Teardown Performance Mod](https://github.com/CoolJWB/TeardownPerformanceMod) : A mod to Teardown that is widely popular, over 100k downloads.
-- [Vulnerability Patcher](https://github.com/CoolJWB/VulnerabilityPatcher) : Plugin to Minecraft servers that prevents vulnerabilities, no longer maintained [see fork.](https://github.com/Focusvity/VulnerabilityPatcher)
-- [Astro Evolution](https://github.com/CoolJWB/Astro) : High school final project, inspired by [Sebastian Lague](https://youtu.be/lctXaT9pxA0?si=-4oM9p2YiZ1ihfLP).
-- [Pi Generator](https://github.com/CoolJWB/Pi-Estimator) : Math experiment in Python that tries to estimate Pi accurately very fast using AGM.
-- [Python Calculator](https://github.com/CoolJWB/Python-Calculator) : Simple Python calculator in under 100 lines of code that takes a long text input and evaluates it.
-- <img src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" width=13><br>
 <br>
+
+> [!NOTE]  
+> "Now what I wanted when I asked for a nanosecond was, I wanted a piece of wire which would represent the maximum distance that electricity could travel in a billionth of a second.
+Of course, it wouldn’t really be through wire. It’d be out in space, velocity of light, so if you start with the velocity of light and use your friendly computer, you’ll discover that a nanosecond is 11.8 inches long. The maximum limiting distance that electricity can travel in a billionth of a second.
+<br><br>
+Finally, again in about a week I called back and said “I need something to compare this to. Could I please have a microsecond?”
+I’ve only got one microsecond, so I can’t give you each one. Here’s a microsecond. Nine hundred and eighty-four feet. I sometimes think we ought to hang one over every programmer’s desk, or around their neck, so they know what they’re throwing away when they throw away microseconds." - Grace Hopper
+
+<br><br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolJWB&theme=&title_color=b4cffa&icon_color=b4cffa&text_color=ffffff&bg_color=2f81f7&border_color=2f81f7&show_icons=true&count_private=true)-->
 
