@@ -11,7 +11,7 @@ Of course, it wouldn’t really be through wire. It’d be out in space, velocit
 Finally, again in about a week I called back and said “I need something to compare this to. Could I please have a microsecond?”
 I’ve only got one microsecond, so I can’t give you each one. Here’s a microsecond. Nine hundred and eighty-four feet. I sometimes think we ought to hang one over every programmer’s desk, or around their neck, so they know what they’re throwing away when they throw away microseconds." - Grace Hopper
 
-<br><br>
+<br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolJWB&theme=&title_color=b4cffa&icon_color=b4cffa&text_color=ffffff&bg_color=2f81f7&border_color=2f81f7&show_icons=true&count_private=true)-->
 
