@@ -1,9 +1,3 @@
-### INTRODUCTION
-I'm William, a C/C++ programmer from northern Sweden. I currently study for a Bachelor's title in Computer Game Programming at Luleå University of Technology.
-The core interests for me can be found in the realm of low-level optimizations and to always learn more...
-
-<br>
-
 > [!NOTE]  
 > "Now what I wanted when I asked for a nanosecond was, I wanted a piece of wire which would represent the maximum distance that electricity could travel in a billionth of a second.
 Of course, it wouldn’t really be through wire. It’d be out in space, velocity of light, so if you start with the velocity of light and use your friendly computer, you’ll discover that a nanosecond is 11.8 inches long. The maximum limiting distance that electricity can travel in a billionth of a second.
